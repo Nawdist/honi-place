@@ -1,39 +1,32 @@
-@import url('https://fonts.googleapis.com/css2?family=Roboto:wght@100;300&display=swap');
+@import url("https://fonts.googleapis.com/css2?family=Roboto:wght@100;300&display=swap");
 
-button {
-  font-family: 'Roboto', sans-serif;
-  font-weight: bolder;
-  background-color: rgb(204, 204, 204);
-  border:rgb(170, 170, 170) 2px solid;
-  font-size: 1rem;
-  padding-left: 1rem;
-  padding-right: 1rem;
-  padding-top: .5rem;
-  padding-bottom: .5rem;
-  transition: 0.1s;
+:root {
+  /* --purple: #340050; */
+  --colors: #c7886b, #824a4d, #516e68, #5e824e;
+  --purple: #11001a;
+  /* background-color: rgb(206, 50, 17), rgb(81, 86, 113), rgb(38, 176, 190),
+    rgb(127, 192, 70), rgb(255, 29, 20); */
 }
 
-button:hover{
-  background-color: rgb(0, 131, 224);
-  border:rgb(0, 70, 191) 2px solid;
-}
-button:focus{
-  background-color: rgb(204, 204, 204);
-  border:rgb(0, 70, 191) 2px solid;
+.cat-container .btn-purple:focus {
+  filter: saturate(-25%) !important;
 }
 
+.cat-container img {
+  border-radius: 1%;
+  box-shadow: 2px 2px black;
+}
 
-body{
-  font-family: 'Roboto', sans-serif;
-  /* background: rgb(255,131,6); */
-/* background: radial-gradient(circle, rgba(255,131,6,1) 0%, rgba(255,207,46,1) 100%); */
+body {
+  padding-top: 25px;
+  font-family: "Roboto", sans-serif;
   background-image: url(/pattern.svg);
-  background-size: 5%;
 }
 
 .titlebar {
+  z-index: 10000;
   height: 20px;
-  background: #3d3d3d;
+  background: #28421d;
   user-select: none;
   display: flex;
   justify-content: flex-end;
@@ -42,15 +35,75 @@ body{
   left: 0;
   right: 0;
 }
-.titlebar-button {
+
+.list-group img {
+  filter: invert() brightness(80%);
+  margin-right: 2px;
+}
+
+.list-group-item {
+  border: 1px solid rgb(80 80 80);
+  background-color: black !important;
+  color: white !important;
+  transition: 0.3s ease-in-out;
+}
+
+.list-group a:nth-child(odd) .list-group-item:hover {
+  background-color: #c7886b !important;
+  transform: translateX(3%);
+}
+.list-group a:nth-child(even) .list-group-item:hover {
+  background-color: #824a4d !important;
+  transform: translateX(3%);
+}
+
+.list-group :nth-child(odd) .list-group-item:hover {
+  background-color: #c7886b !important;
+  transform: translateX(3%);
+}
+.list-group :nth-child(even) .list-group-item:hover {
+  background-color: #824a4d !important;
+  transform: translateX(3%);
+}
+
+.list-group a {
+  text-decoration: none;
+}
+
+* :not(.titlebar) {
+  top: 20px;
+}
+
+.offcanvas {
+  top: 20px !important;
+  background-color: #1b161f !important;
+  color: white;
+}
+
+ .titlebar-button {
   display: inline-flex;
   justify-content: center;
   align-items: center;
   width: 30px;
   height: 20px;
   filter: invert();
-  transition: 0.3s
+  transition: 0.3s;
 }
+ .titlebar-title {
+  display: inline-flex;
+  justify-content: center;
+  align-items: center;
+  height: 20px;
+  color: white;
+  margin-right: auto;
+  transition: 0.3s;
+}
+
+.titlebar-title p{
+  margin-left: 10px;
+  margin-bottom: 0px;
+}
+
 .titlebar-button:hover {
   background: #262626;
 }

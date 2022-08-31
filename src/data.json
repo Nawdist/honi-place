@@ -1,0 +1,229 @@
+[
+    {
+      "name": "Albedo",
+      "description": "A genius known as the Kreideprinz, he is the Chief Alchemist and Captain of the Investigation Team of the Knights of Favonius.",
+      "birthday": "13/09"
+    },
+    { "name": "Aloy", "description": "", "birthday": "04/04" },
+    {
+      "name": "Amber",
+      "description": "Always energetic and full of life, Amber's the best - albeit only - Outrider of the Knights of Favonius.",
+      "birthday": "10/08"
+    },
+    {
+      "name": "Arataki Itto",
+      "description": "The first and greatest head of the Arataki Gang, famed throughout Inazuma City's Hanamizaka... Wait, what? You've never heard of them? Are you trying to be funny here?",
+      "birthday": "01/06"
+    },
+    {
+      "name": "Kamisato Ayaka",
+      "description": "Daughter of the Yashiro Commission's Kamisato Clan. Dignified and elegant, as well as wise and strong.",
+      "birthday": "28/09"
+    },
+    {
+      "name": "Barbara",
+      "description": "Every denizen of Mondstadt adores Barbara. However, she learned the word \"idol\" from a magazine.",
+      "birthday": "05/07"
+    },
+    {
+      "name": "Beidou",
+      "description": "Captain of her crew, The Crux. She's quite an unbound and forthright woman.",
+      "birthday": "14/02"
+    },
+    {
+      "name": "Bennett",
+      "description": "A righteous and good-natured adventurer from Mondstadt who's unfortunately extremely unlucky.",
+      "birthday": "29/02"
+    },
+    {
+      "name": "Chongyun",
+      "description": "A young exorcist from a family of exorcists. He does everything he can to suppress his abundance of yang energy.",
+      "birthday": "07/09"
+    },
+    {
+      "name": "Diluc",
+      "description": "The tycoon of a winery empire in Mondstadt, unmatched in every possible way.",
+      "birthday": "30/04"
+    },
+    {
+      "name": "Diona",
+      "description": "A young lady who has inherited trace amounts of non-human blood. She is the incredibly popular bartender of the Cat's Tail tavern.",
+      "birthday": "18/01"
+    },
+    {
+      "name": "Eula",
+      "description": "The Spindrift Knight, a scion of the old aristocracy, and the Captain of the Knights of Favonius Reconnaissance Company. The reason for which a descendant of the ancient nobles might join the Knights remains a great mystery in Mondstadt to this very day.",
+      "birthday": "25/10"
+    },
+    {
+      "name": "Fischl",
+      "description": "A mysterious girl who calls herself \"Prinzessin der Verurteilung\" and travels with a night raven named Oz.",
+      "birthday": "27/05"
+    },
+    {
+      "name": "Ganyu",
+      "description": "The secretary at Yuehai Pavilion. The blood of the qilin, an illuminated beast, flows within her veins.",
+      "birthday": "02/12"
+    },
+    {
+      "name": "Gorou",
+      "description": "The great general of Watatsumi Island's forces. He is deeply trusted by his subordinates.",
+      "birthday": "18/05"
+    },
+    {
+      "name": "Hu Tao",
+      "description": "The 77th Director of the Wangsheng Funeral Parlor. She took over the business at a rather young age.",
+      "birthday": "15/07"
+    },
+    {
+      "name": "Jean",
+      "description": "The righteous and rigorous Dandelion Knight, and Acting Grand Master of Mondstadt's Knights of Favonius",
+      "birthday": "14/03"
+    },
+    {
+      "name": "Kaeya",
+      "description": "An accomplished swordsman and a strategic thinker in the Knights of Favonius, rumored to hail from beyond Mondstadt.",
+      "birthday": "30/11"
+    },
+    {
+      "name": "Kaedehara Kazuha",
+      "description": "If one's heart is empty, all under heaven is empty. But if one's heart is pure, all under heaven is pure.",
+      "birthday": "29/10"
+    },
+    {
+      "name": "Keqing",
+      "description": "The Yuheng of the Liyue Qixing. Has much to say about Rex Lapis' unilateral approach to policymaking in Liyue - but in truth, gods admire skeptics such as her quite a lot.",
+      "birthday": "20/11"
+    },
+    {
+      "name": "Klee",
+      "description": "An explosives expert and a regular at the Knights of Favonius' confinement room. Also known as Fleeing Sunlight.",
+      "birthday": "27/07"
+    },
+    {
+      "name": "Sangonomiya Kokomi",
+      "description": "The Divine Priestess of Watatsumi Island. All of the island's affairs are at this young lady's fingertips.",
+      "birthday": "22/02"
+    },
+    {
+      "name": "Lisa",
+      "description": "The languid but knowledgeable Librarian of the Knights of Favonius who was deemed by Sumeru Academia to be their most distinguished graduate in the past two centuries.",
+      "birthday": "09/06"
+    },
+    {
+      "name": "Mona",
+      "description": "A mysterious young astrologer who proclaims herself to be \"Astrologist Mona Megistus,\" and who possesses abilities to match the title. Erudite, but prideful.",
+      "birthday": "31/08"
+    },
+    {
+      "name": "Ningguang",
+      "description": "The Tianquan of Liyue Qixing. Her wealth is unsurpassed in all of Teyvat.",
+      "birthday": "26/08"
+    },
+    {
+      "name": "Noelle",
+      "description": "A maid who faithfully serves the Knights of Favonius that dreams of joining their ranks someday.",
+      "birthday": "21/03"
+    },
+    {
+      "name": "Qiqi",
+      "description": "An apprentice and herb gatherer at Bubu Pharmacy. An undead with a bone-white complexion, she seldom has much in the way of words or emotion.",
+      "birthday": "03/03"
+    },
+    {
+      "name": "Raiden Shogun",
+      "description": "Her Excellency, the Almighty, Narukami Ogosho, who promised the people of Inazuma an unchanging Eternity.",
+      "birthday": "26/06"
+    },
+    {
+      "name": "Razor",
+      "description": "A boy who lives among the wolves in Wolvendom of Mondstadt, away from human civilization. As agile as lightning.",
+      "birthday": "09/09"
+    },
+    {
+      "name": "Rosaria",
+      "description": "A sister of the church, though you wouldn't know it if it weren't for her attire. Known for her sharp, cold words and manner, she often works alone.",
+      "birthday": "24/01"
+    },
+    {
+      "name": "Kujou Sara",
+      "description": "A general of the Tenryou Commission. Bold, decisive, and skilled in battle.",
+      "birthday": "14/07"
+    },
+    {
+      "name": "Sayu",
+      "description": "A pint-sized ninja attached to the Shuumatsuban, who always seems to be lacking sleep.",
+      "birthday": "19/10"
+    },
+    {
+      "name": "Shenhe",
+      "description": "An adepti disciple with a most unusual air about her. Having spent much time cultivating in isolation in Liyue's mountains, she has become every bit as cool and distant as the adepti themselves.",
+      "birthday": "10/03"
+    },
+    {
+      "name": "Sucrose",
+      "description": "An alchemist filled with curiosity about all things. She researches bio-alchemy.",
+      "birthday": "26/11"
+    },
+    {
+      "name": "Tartaglia",
+      "description": "No. 11 of The Harbingers, also known as \"Childe\". His name is highly feared on the battlefield.",
+      "birthday": "20/07"
+    },
+    {
+      "name": "Thoma",
+      "description": "The housekeeper of the Yashiro Commission's Kamisato Clan, and a well-known \"fixer\" in Inazuma.\nFriendly and approachable, Thoma fits in with the crowd easily wherever he is.\nAt first glance, he seems to be a very easygoing person, but he is in fact very responsible. He has an extraordinarily serious side, be it in his work or his interpersonal communications.",
+      "birthday": "09/01"
+    },
+    {
+      "name": "Venti",
+      "description": "One of the many bards of Mondstadt, who freely wanders the city's streets and alleys.",
+      "birthday": "16/06"
+    },
+    {
+      "name": "Xiangling",
+      "description": "A renowned chef from Liyue. She's extremely passionate about cooking and excels at making her signature hot and spicy dishes.",
+      "birthday": "02/11"
+    },
+    {
+      "name": "Xiao",
+      "description": "A yaksha adeptus that defends Liyue. Also heralded as the \"Conqueror of Demons\" and \"Vigilant Yaksha.\"",
+      "birthday": "17/04"
+    },
+    {
+      "name": "Xingqiu",
+      "description": "A young man carrying a longsword who is frequently seen at book booths. He has a chivalrous heart and yearns for justice and fairness for all.",
+      "birthday": "09/10"
+    },
+    {
+      "name": "Xinyan",
+      "description": "Liyue's sole rock 'n' roll musician. She rebels against ossified prejudices using her music and passionate singing.",
+      "birthday": "16/10"
+    },
+    {
+      "name": "Yae Miko",
+      "description": "Lady Guuji of the Grand Narukami Shrine. Also serves as the editor-in-chief of Yae Publishing House. Unimaginable intelligence and cunning are hidden under her beautiful appearance.",
+      "birthday": "27/06"
+    },
+    {
+      "name": "Yanfei",
+      "description": "A well-known legal adviser active in Liyue Harbor. A brilliant young lady in whose veins runs the blood of an illuminated beast.",
+      "birthday": "28/07"
+    },
+    {
+      "name": "Yoimiya",
+      "description": "Owner of Naganohara Fireworks. Known as the \"Queen of the Summer Festival,\" she excels in her craft of creating fireworks that symbolize people's hopes and dreams.",
+      "birthday": "21/06"
+    },
+    {
+      "name": "Yun Jin",
+      "description": "A renowned Liyue opera singer who is skilled in both playwriting and singing. Her style is one-of-a-kind, exquisite and delicate, much like the person herself.",
+      "birthday": "21/05"
+    },
+    {
+      "name": "Zhongli",
+      "description": "A mysterious expert contracted by the Wangsheng Funeral Parlor. Extremely knowledgeable in all things.",
+      "birthday": "31/12"
+    }
+  ]
+  
